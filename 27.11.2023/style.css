@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: chartreuse;
+    width: 100vw;
+    height: 100vh;
+   
+}
+.header{
+    background-color:red;
+    height: 100px;
+border: 2px solid black;
+}
+.div1{
+  background-image: url("https://cdn.pixabay.com/photo/2023/06/22/02/26/motocross-8080379_640.jpg"); 
+  background-size: 100vw;
+  border: 5px solid black;
+  height: 400px;
+  display: flex;
+  margin: 5px;
+ 
+  align-items: center;
+  gap: 600px;
+ 
+  
+}
+.mazaisdiv11{
+    background-color: aqua ;
+    height: 350px;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.mazaisdiv12{
+    
+    height: 350px;
+    width: 250px;
+    display: flex;
+}
