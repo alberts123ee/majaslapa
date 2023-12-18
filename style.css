@@ -1,42 +1,89 @@
 *{
     margin: 0px;
     box-sizing: border-box;
+    
+    
 }
 body{
-    background-color: chartreuse;
+    background-color: cornsilk;
     width: 100vw;
     height: 100vh;
-   
+    background-image: url(https://media.istockphoto.com/id/1603977255/vector/white-background-abstract-neutral-texture-subtle-geometric-wallpaper-futuristic-clean-lines.jpg?b=1&s=612x612&w=0&k=20&c=LewmiVE9yw3i8Wyi3oVXxfrMIWcVZn8fJyl_h5pBdjc=);
+    background-size: 70vw;
+
+    
 }
 .header{
-    background-color:red;
-    height: 100px;
-border: 2px solid black;
+    background-color: azure;
+    height: 120px;
+border: 3px solid darkred;
+
+margin: 2px;
+background-image: url(https://media.istockphoto.com/id/1603977255/vector/white-background-abstract-neutral-texture-subtle-geometric-wallpaper-futuristic-clean-lines.jpg?b=1&s=612x612&w=0&k=20&c=LewmiVE9yw3i8Wyi3oVXxfrMIWcVZn8fJyl_h5pBdjc=);
+background-size: 70vw;
+
+border: 7px;
+margin-bottom: 2px;
 }
 .div1{
-  background-image: url("https://cdn.pixabay.com/photo/2023/06/22/02/26/motocross-8080379_640.jpg"); 
-  background-size: 100vw;
-  border: 5px solid black;
-  height: 400px;
-  display: flex;
-  margin: 5px;
- 
-  align-items: center;
-  gap: 600px;
- 
-  
+   align-items: center;
+border: 4px solid darkred;
+width: 100vw;
+display: flex;
+margin-bottom: 2px;
+border-radius: 7px;
 }
 .mazaisdiv11{
-    background-color: aqua ;
+    
     height: 350px;
     width: 250px;
     justify-content: center;
     align-items: center;
     display: flex;
 }
-.mazaisdiv12{
+
+.logo{
+    height: 60px;
+}
+.LČ{
     
-    height: 350px;
-    width: 250px;
+   
+    font-weight: bold;
+    font-size: x-large;
+    color: darkred;
+   
+    
+}
+.rezultātulisti{
+    
+    height: 100%;
+    justify-content: left;
+    color: darkred;
+    font-weight: bold;
+    
+    
+}
+a:link{
+    text-decoration: none;
+    color: darkred;
+  
+}
+.div2{
+    align-items: center;
+    border: 4px solid darkred;
+    width: 100vw;
     display: flex;
+  margin-bottom: 2px;
+    border-radius: 7px;  
+}
+.div3{
+    align-items: center;
+    border: 4px solid darkred;
+    width: 100vw;
+    display: flex;
+  margin-bottom: 2px;
+    border-radius: 7px;     
+}
+p{
+    font-size: x-large;
 }
